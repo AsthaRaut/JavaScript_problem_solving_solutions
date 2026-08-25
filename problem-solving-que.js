@@ -55,3 +55,42 @@
 //         console.log("Grade 0")
 //     }
 // }
+
+ 
+ 	
+// Write a Python program that takes a number n and prints a square pattern of * with n rows and n columns.--------------------------
+// Input: 4
+// Output:
+// ****
+// ****
+// ****
+// ****
+
+// let n = 3
+// for(i = 0; i <= n; i++){
+//     console.log("***");
+// }
+
+
+// Write a Python program that takes a number n and prints a right-angled triangle pattern.
+// Input: 5
+// Output:
+// *
+// **
+// ***
+// ****
+// *****
+
+let n = 4
+for(i = 0; i <= n; i++){
+    
+}
+
+//  Write a Python program that takes a number n and prints the following number pattern using nested loops.
+// Input: 5
+// Output:
+// 1
+// 12
+// 123
+// 1234
+// 12345// Ques3:
